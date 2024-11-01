@@ -37,3 +37,49 @@
     //result = 'plein tarif';
   //}
   //console.log(result)
+  //
+  //
+  //exo supplémentaire semaine de vancance -->
+  //
+  //exo1
+  //function sumTwoNumbers(a, b) {
+  //return a + b;
+//}
+//console.log(sumTwoNumbers(5, 8));
+//
+//exo1
+//
+//function concatenateStrings(str1, str2) {
+//  return str1 + str2;
+//}
+//console.log(concatenateStrings("foot", "ball"));
+//
+//exo3
+//
+//function isEven(n) {
+  //return n % 2 === 0;
+//}
+//console.log(isEven(3))
+//console.log(isEven(4))
+//
+//exo4
+//
+//function rectangleArea(widht, height) {
+ // return widht * height;
+//}
+//console.log(rectangleArea(10, 8))
+f//unction isAdult(age) {
+  //return age >= 18;
+//}
+//console.log(isAdult(18));
+//
+//exo5
+//
+//function isPositive(n) {
+//  return n >= 0;
+//}
+//console.log(isPositive(1))
+//
+//exo6
+//
+//
